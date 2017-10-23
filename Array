@@ -13,8 +13,8 @@ arr[3] is the fourth element = 2
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 There are various built in commands we can use to manipulate arrays:
 arr.length - let's us know how many elements there are in an array
-arr.push x - Inputs the value x onto the END of the array
-arr.pop x - remove the END element of the array
+arr.push(x) - Inputs the value x onto the END of the array
+arr.pop(x) - remove the END element of the array
 
 arr[arr.length - 1] - gives the last element of the array
 
