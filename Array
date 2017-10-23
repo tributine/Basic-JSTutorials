@@ -1,0 +1,19 @@
+Arrays are composed of elements, each element has its own index
+
+var arr = []
+
+Ex: 
+var arr = [2 4 3 2]
+// There are 4 elements in the above array
+arr[0] is the first element = 2
+arr[1] is the second element = 4
+arr[2] is the third element = 3
+arr[3] is the fourth element = 2
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+There are various built in commands we can use to manipulate arrays:
+arr.length - let's us know how many elements there are in an array
+arr.push x - Inputs the value x onto the END of the array
+arr.pop x - remove the END element of the array
+
+
