@@ -1,0 +1,6 @@
+Can be initialized by invoking:
+var obj=new object()
+var obj={}
+
+Object attributes can be defined by:
+var animal = 
